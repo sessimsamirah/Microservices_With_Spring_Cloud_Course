@@ -9,5 +9,4 @@ class SpringCloudMicroservicesCourseApplicationTests {
 	@Test
 	void contextLoads() {
 	}
-
 }
